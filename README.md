@@ -10,6 +10,8 @@ Crate Quick Search is a powerful Alfred workflow that allows you to quickly sear
 
 Crate Quick Search 是一个强大的 Alfred 工作流程，允许您快速搜索 Rust crates 并在默认浏览器中打开它们的文档页面。它支持在 docs.rs 上搜索官方文档，以及在 crates.io 上搜索包信息。
 
+![example](./example.gif)
+
 ## Usage | 使用方法
 
 1. Activate Alfred
